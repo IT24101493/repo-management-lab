@@ -1,0 +1,9 @@
+Repository Management Lab
+
+This repository is created for the SE3022 Case Study Project lab session. 
+It demonstrates basic Git operations, branch management, merging, and remote repository workflows using GitHub/GitLab.
+
+Key Features:
+- Version control tracking using Git
+- Feature branch creation and integration
+- Merge conflict simulation and resolution
